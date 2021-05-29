@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tashar02
 - 👀 I’m interested in Android, Art and Animation.
 - 🌱 I’m currently learning about Android custom kernel development.
-- 📫 How to reach me: You can contact me via my email: tashfinshakeerrhythm@gmail.com
+- 📫 How to reach me: 1. Email: tashfinshakeerrhythm@gmail.com || 2. Telegram: https://t.me/Tashar02
 
 <!---
 Tashar02/Tashar02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
