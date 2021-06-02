@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Android custom kernel development.
 - 📫 How to reach me: 1. Email: tashfinshakeerrhythm@gmail.com || 2. Telegram: https://t.me/Tashar02
 
-[![Tashar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tashar02&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Tashar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tashar02&count_private=true&count_public=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
