@@ -7,8 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashar02&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Tashar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tashar02)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!---
 Tashar02/Tashar02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
