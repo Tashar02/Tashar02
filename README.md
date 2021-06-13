@@ -5,7 +5,7 @@
 
 [![Tashar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tashar02&count_private=true&count_public=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashar02&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashar02&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tashar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tashar02)](https://github.com/anuraghazra/github-readme-stats)
 
