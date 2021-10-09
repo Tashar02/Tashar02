@@ -2,7 +2,7 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tashfin Shakeer Rhythm, a.k.a Tashar</h2>
 <h3 align="center">A rookie who is very passionate about Android and Animation</h3>
 
-- 🌱 I’m currently learning **Android Custom Kernel Development**
+- 🌱 I’m currently learning **Android Linux Kernel Development**
 
 <p>
   <em>
