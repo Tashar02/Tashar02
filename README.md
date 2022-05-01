@@ -4,7 +4,7 @@
 
 - Currently learning **Android Linux Kernel Development**
 - Currently working on a 4.19 based android custom kernel named <a href="https://github.com/Atom-X-Devs/android_kernel_xiaomi_scarlet">**Scarlet-X**</a>.
-- Member at <a href="https://github.com/Atom-X-Devs">Atom-X-Devs</a> and continuing my kernel development there.
+- Member at <a href="https://github.com/Atom-X-Devs">**Atom-X-Devs**</a> and continuing my kernel development there.
 
 <p>
   <em>
