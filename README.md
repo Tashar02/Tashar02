@@ -15,6 +15,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tashar02&style=flat-square" alt="Tashar02">
+  <img src="https://badges.pufler.dev/commits/monthly/Tashar02">
 </p>
 
 ## Metrics
