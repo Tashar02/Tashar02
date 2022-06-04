@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tashfin Shakeer Rhythm, a.k.a Tashar</h2>
+<h2 align="center">Hi, I'm Tashfin Shakeer Rhythm, a.k.a Tashar</h2>
 <h3 align="center">A rookie who is very passionate about Android and Animation</h3>
 </p>
 
