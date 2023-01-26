@@ -4,7 +4,10 @@
 </p>
 
 ## Some minor info about myself
-I am from Bangladesh. I started my journey with Linux in 2021. Since then, I have been very interested in Linux Kernel. I have been developing linux kernels for my Android device since then. It's been a fun journey. Hope it continues.
+I am from Bangladesh. I started my journey with Linux in 2021. Since then, I've been very interested in Linux Kernel. I've been developing linux kernels for my Android device since then. It's been a fun journey. Hope it continues.
+
+## My devices
+- Mi A2 (jasmine_sprout).
 
 ## What are you upto now?
 - [Scarlet-X Linux-4.19 Kernel Project](https://github.com/Atom-X-Devs/android_kernel_xiaomi_scarlet) for Mi A2/6X.
@@ -14,7 +17,8 @@ I am from Bangladesh. I started my journey with Linux in 2021. Since then, I hav
 
 <p>
   <em>
-    Lived 18 years of my life in this beautiful world!
+    It's been 19 years since I came to this beautiful world.
+    “My life is better with every year of living it.” — Rachel Maddow.
   </em>
 </p>
 
