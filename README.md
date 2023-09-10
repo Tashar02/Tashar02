@@ -4,7 +4,7 @@
 </p>
 
 ## Some minor info about myself
-I am from Bangladesh. I started my journey with Linux in 2021. Since then, I've been very interested in Linux Kernel. I've been developing linux kernels for my Android device since then. It's been a fun journey. Hope it continues.
+I'm from Bangladesh. I started my journey of android linux kernel development from 2021. It's been a fun journey. Let's see how far this takes me.
 
 ## My devices
 - Mi A2 (jasmine_sprout).
@@ -17,7 +17,7 @@ I am from Bangladesh. I started my journey with Linux in 2021. Since then, I've 
 
 <p>
   <em>
-    It's been 19 years since I came to this beautiful world.<br>
+    It's been my trip to this beautiful world for 19 years.<br>
     “My life is better with every year of living it.” — Rachel Maddow.
   </em>
 </p>
