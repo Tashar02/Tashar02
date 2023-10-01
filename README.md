@@ -4,7 +4,7 @@
 </p>
 
 ## Some minor info about myself
-I'm from Bangladesh. I started my journey of android linux kernel development from 2021. It's been a fun journey. Let's see how far this takes me.
+I'm from Bangladesh. I started android linux kernel development since 2021. It's been a fun journey. Let's see how far this takes me.
 
 ## My devices
 - Mi A2 (jasmine_sprout).
@@ -12,7 +12,7 @@ I'm from Bangladesh. I started my journey of android linux kernel development fr
 ## What are you upto now?
 - [Scarlet-X Linux-4.19 Kernel Project](https://github.com/Atom-X-Devs/android_kernel_xiaomi_scarlet) for Mi A2/6X.
 - Learning C.
-- Contributing to opensource projects sometimes.
+- Contributing to open-source projects sometimes.
 - Wandering around GitHub mindlessly.
 
 <p>
