@@ -8,9 +8,11 @@ I'm from Bangladesh. I started android linux kernel development since 2021. It's
 
 ## My devices
 - Mi A2 (jasmine_sprout).
+- POCO X5 Pro (redwood).
 
 ## What are you upto now?
-- [Scarlet-X Linux-4.19 Kernel Project](https://github.com/Atom-X-Devs/android_kernel_xiaomi_scarlet) for Mi A2/6X.
+- [Scarlet-X Linux-4.19 Kernel Project](https://github.com/Atom-X-Devs/scarlet_xiaomi_sdm660) for Mi A2/6X.
+- [Scarlet-X Linux-5.4 Kernel Project](https://github.com/Atom-X-Devs/scarlet_xiaomi_sm7325) for POCO X5 Pro.
 - Learning C.
 - Contributing to open-source projects sometimes.
 - Wandering around GitHub mindlessly.
