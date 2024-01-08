@@ -12,7 +12,7 @@ The android linux kernel development journey started since 2021. Let's see how f
 
 ## What are you upto now?
 - [Scarlet-X Linux-4.19 Kernel Project](https://github.com/Atom-X-Devs/scarlet_xiaomi_sdm660) for Mi A2/6X.
-- [Scarlet-X Linux-5.4 Kernel Project](https://github.com/Atom-X-Devs/scarlet_xiaomi_sm7325) for POCO X5 Pro.
+- [Scarlet-X Linux-5.4 Kernel Project](https://github.com/Atom-X-Devs/scarlet_xiaomi_sm7325) for POCO X5 Pro 5G / Redmi Note 12 Pro Speed.
 - Learning C.
 - Contributing to open-source projects sometimes.
 - Wandering around GitHub mindlessly.
