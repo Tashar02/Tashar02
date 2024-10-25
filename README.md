@@ -3,7 +3,7 @@
 <h3 align="center">A rookie who is very passionate about Android and Animation</h3>
 </p>
 
-# 💫 About Me:
+# About Me:
 I’m currently a student in the department of Computer Science and Engineering at Independent University, Dhaka, Bangladesh.<br>Languages/Tools I know: C, Shell scripting, Python (basics).<br>I'm immensely interested in Animation Industry Research, Android development, Linux Kernel development and Open Source Contribution.
 
 <p>
@@ -43,17 +43,9 @@ I’m currently a student in the department of Computer Science and Engineering 
 </p>
 </br>
 
-[![Tashar02's GitHub | Stats](https://stats.quira.sh/Tashar02/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Tashar02)
-
-[![Tashar02's GitHub | Topics](https://stats.quira.sh/Tashar02/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Tashar02)
-
-[![Tashar02's GitHub | Languages](https://stats.quira.sh/Tashar02/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Tashar02)
-
 ## Holopin Board:
-[![@Tashar02's Holopin board](https://holopin.io/api/user/board?user=Tashar02)](https://holopin.io/@Tashar02)
+[![Holopin board](https://holopin.io/api/user/board?user=Tashar02)](https://holopin.io/@Tashar02)
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Tashar02&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Tashar02&icon=8&color=0)](https://visitcount.itsvg.in)
