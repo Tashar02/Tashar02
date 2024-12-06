@@ -23,6 +23,7 @@ I’m currently a student in the department of Computer Science and Engineering 
 # My Projects
 - [Scarlet-X Linux-4.19 Kernel Project](https://github.com/Atom-X-Devs/scarlet_xiaomi_sdm660) for Mi A2 / 6X.
 - [Scarlet Linux-5.4 Kernel Project](https://github.com/Atom-X-Devs/scarlet_xiaomi_sm7325) for POCO X5 Pro 5G / Redmi Note 12 Pro Speed.
+- [Tic Tac Toe](https://github.com/Tashar02/tic-tac-toe) game written in simple Python with the Pygame library.
 
 # GitHub Analytics:
 <p align="center">
