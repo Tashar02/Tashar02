@@ -16,7 +16,7 @@ I’m currently a student in the department of Computer Science and Engineering 
 
 # My devices
 - Huawei Y6II (CAM-L21).
-- Redmi Note 5A Prime (ugg)
+- Redmi Note 5A Prime (ugg).
 - Mi A2 (jasmine_sprout).
 - POCO X5 Pro 5G (redwood).
 
