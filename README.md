@@ -4,7 +4,7 @@
 
 # About Me:
 * A student in the department of Computer Science and Engineering at Independent University, Dhaka, Bangladesh.<br>
-* Languages I know: C, Shell scripting, Python (basics).<br>
+* Languages I know: C, Shell scripting, Python.<br>
 * Interests: Animation Industry Research, Android development, Linux Kernel development and Open Source Contribution.
 
 <p>
