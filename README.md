@@ -6,6 +6,7 @@
 * A student in the department of Computer Science and Engineering at Independent University, Dhaka, Bangladesh.<br>
 * Languages I know: C, Shell scripting, Python.<br>
 * Interests: Animation Industry Research, Android development, Linux Kernel development and Open Source Contribution.
+* Android platforms that I have worked on: Snapdragon 660 (falcon), Snapdragon 778G (yupik).
 
 <p>
   <em>
@@ -17,10 +18,10 @@
 <img src="https://komarev.com/ghpvc/?username=Tashar02&style=flat-square" alt="Tashar02">
 
 # My devices
-- Huawei Y6II (CAM-L21).
-- Redmi Note 5A Prime (ugg).
-- Mi A2 (jasmine_sprout).
-- POCO X5 Pro 5G (redwood).
+* Huawei Y6II (CAM-L21).
+* Redmi Note 5A Prime (ugg).
+* Mi A2 (jasmine_sprout).
+* POCO X5 Pro 5G (redwood).
 
 # My Projects
 - [Scarlet-X Linux-4.19 Kernel Project](https://github.com/Atom-X-Devs/scarlet_xiaomi_sdm660) for Mi A2 / 6X.
