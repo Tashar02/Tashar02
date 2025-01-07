@@ -2,7 +2,7 @@
 <h2 align="center">Hi, I'm Tashfin Shakeer Rhythm, a.k.a Tashar</h2>
 </p>
 
-# About Me:
+# About Me
 * A student in the department of Computer Science and Engineering at Independent University, Dhaka, Bangladesh.<br>
 * Languages I know: C, Shell scripting, Python.<br>
 * Interests: Animation Industry Research, Android development, Linux Kernel development and Open Source Contribution.
@@ -28,7 +28,7 @@
 - [Scarlet Linux-5.4 Kernel Project](https://github.com/Atom-X-Devs/scarlet_xiaomi_sm7325) for POCO X5 Pro 5G / Redmi Note 12 Pro Speed.
 - [Tic Tac Toe](https://github.com/Tashar02/tic-tac-toe) game written in simple Python with the Pygame library.
 
-# GitHub Analytics:
+# GitHub Analytics
 <p align="center">
 <a href="https://github.com/Tashar02">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tashar02&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -38,8 +38,8 @@
 </p>
 <br>
 
-# Holopin Board:
+# Holopin Board
 [![Holopin board](https://holopin.io/api/user/board?user=Tashar02)](https://holopin.io/@Tashar02)
 
-# GitHub Trophies:
+# GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tashar02&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
