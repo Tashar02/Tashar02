@@ -4,13 +4,13 @@
 
 # About Me
 * A student in the department of Computer Science and Engineering at Independent University, Bangladesh.<br>
-* Languages I know: C, Bash, Python and Java.<br>
+* Porgamming languages that I know: C, Bash, Python and Java.<br>
 * Interests: Animation Industry Research, Android development, Linux Kernel development and Open Source Contribution.
 * Android platforms that I have worked on: Snapdragon 660 (falcon), Snapdragon 778G (yupik).
 
 <p>
   <em>
-    It's been a trip to this beautiful world for 21 years.<br>
+    It's been a trip to this beautiful world for 22 years.<br>
     “My life is better with every year of living it.” — Rachel Maddow.
   </em>
 </p>
