@@ -4,7 +4,7 @@
 
 # About Me
 * A student in the department of Computer Science and Engineering at Independent University, Bangladesh.<br>
-* Progamming languages that I know: C, Bash, Python and Java.<br>
+* Programming languages that I know: C, Bash, Python and Java.<br>
 * Interests: Animation Industry Research, Android development, Linux Kernel development and Open Source Contribution.
 * Android platforms that I have worked on: Snapdragon 660 (falcon), Snapdragon 778G (yupik).
 
