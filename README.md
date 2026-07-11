@@ -27,6 +27,7 @@
 - [Scarlet-X Linux-4.19 Kernel Project](https://github.com/Atom-X-Devs/scarlet_xiaomi_sdm660) for Mi A2 / 6X.
 - [Scarlet Linux-5.4 Kernel Project](https://github.com/Atom-X-Devs/scarlet_xiaomi_sm7325) for POCO X5 Pro 5G / Redmi Note 12 Pro Speed.
 - [Tic Tac Toe](https://github.com/Tashar02/tic-tac-toe) game written in simple Python with the Pygame library.
+- [Rogue WiFi Access Point Detector](https://github.com/Tashar02/rogue_wifi_ap_detector) written in C++, made for nanoESP32 C6.
 
 # GitHub Analytics
 <p align="center">
